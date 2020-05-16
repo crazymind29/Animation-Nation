@@ -1,0 +1,21 @@
+body {
+  background: linear-gradient(90deg, black, white);
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  border: 100px groove;
+  border-radius: 30%;
+  border-left-color: red;
+  border-right-color: blue;
+  border-top-color: yellow;
+  border-bottom-color: green;
+  margin: 30px;
+  /*animation-stuff*/
+  animation-name: smoke;
+  animation-duration: 2s;
+  animation-timing-function: ease-out;
+  animation-iteration-count: infinite;
+  animation-delay: 0s;
+}

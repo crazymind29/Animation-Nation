@@ -2708,6 +2708,13 @@ githubLink: 'https://github.com/Dondesconton/',
     imageLink: "./Art/zai/zais_orbitron.gif",
     author: '5amm5',
 		githubLink: 'https://github.com/5amm5965/',
+  },
+  {
+    artName: "crazymind29",
+    pageLink: "./Art/crazymind29/index.html",
+    imageLink: "./Art/crazymind29/smoke.gif",
+    author: 'crazymind',
+		githubLink: 'https://github.com/crazymind29/',
   }
 ];	
 
